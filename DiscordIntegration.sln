@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration", "DiscordIntegration\DiscordIntegration.csproj", "{CAA61250-E640-40A3-AD8E-C7E2972882C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration.WebAPI", "DiscordIntegration\DiscordIntegration.WebAPI.csproj", "{CAA61250-E640-40A3-AD8E-C7E2972882C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration.Business", "DiscordIntegration.Business\DiscordIntegration.Business.csproj", "{BC0D72DB-94AB-4077-A258-58AE1EA57672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CAA61250-E640-40A3-AD8E-C7E2972882C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAA61250-E640-40A3-AD8E-C7E2972882C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAA61250-E640-40A3-AD8E-C7E2972882C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
