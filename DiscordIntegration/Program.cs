@@ -12,7 +12,7 @@ namespace DiscordIntegration
     public class Program
     {
         public static void Main(string[] args)
-        {   
+        {
             CreateHostBuilder(args).Build().Run();
         }
 
@@ -22,7 +22,5 @@ namespace DiscordIntegration
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-
-        bool test = false;
     }
 }
