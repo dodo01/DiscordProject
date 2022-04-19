@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}|DiscordIntegration">
+  <MonoDevelop.Ide.ItemProperties.DiscordIntegration.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="DiscordIntegration" expanded="True" selected="True">
+            <Node name="DiscordIntegration.WebAPI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

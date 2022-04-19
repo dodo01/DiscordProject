@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration.Business", "DiscordIntegration.Business\DiscordIntegration.Business.csproj", "{BC0D72DB-94AB-4077-A258-58AE1EA57672}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration.WebAPI", "DiscordIntegration\DiscordIntegration.WebAPI.csproj", "{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordIntegration.Business", "DiscordIntegration.Business\DiscordIntegration.Business.csproj", "{581BC23F-0F80-44FA-956D-020ABB2D61EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC0D72DB-94AB-4077-A258-58AE1EA57672}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581BC23F-0F80-44FA-956D-020ABB2D61EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581BC23F-0F80-44FA-956D-020ABB2D61EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581BC23F-0F80-44FA-956D-020ABB2D61EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581BC23F-0F80-44FA-956D-020ABB2D61EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

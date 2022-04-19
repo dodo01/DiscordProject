@@ -1,0 +1,7 @@
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.csproj.AssemblyReference.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.AssemblyInfoInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.AssemblyInfo.cs
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.csproj.CoreCompileInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration/obj/Debug/netcoreapp3.1/DiscordIntegration.WebAPI.MvcApplicationPartsAssemblyInfo.cache
