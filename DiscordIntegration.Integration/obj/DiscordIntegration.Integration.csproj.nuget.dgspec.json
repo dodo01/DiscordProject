@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/DiscordIntegration.Integration.csproj": {}
+  },
+  "projects": {
+    "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/DiscordIntegration.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/DiscordIntegration.Infrastructure.csproj",
+        "projectName": "DiscordIntegration.Infrastructure",
+        "projectPath": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/DiscordIntegration.Infrastructure.csproj",
+        "packagesPath": "/Users/cosminlebada/.nuget/packages/",
+        "outputPath": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cosminlebada/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/DiscordIntegration.Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/DiscordIntegration.Integration.csproj",
+        "projectName": "DiscordIntegration.Integration",
+        "projectPath": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/DiscordIntegration.Integration.csproj",
+        "packagesPath": "/Users/cosminlebada/.nuget/packages/",
+        "outputPath": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cosminlebada/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/DiscordIntegration.Infrastructure.csproj": {
+                "projectPath": "/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/DiscordIntegration.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

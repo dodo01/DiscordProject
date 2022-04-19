@@ -20,4 +20,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="6.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DiscordIntegration.Integration\DiscordIntegration.Integration.csproj" />
+    <ProjectReference Include="..\DiscordIntegration.Infrastructure\DiscordIntegration.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>

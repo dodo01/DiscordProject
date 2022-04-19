@@ -1,0 +1,15 @@
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/DiscordIntegration.Integration.deps.json
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/DiscordIntegration.Integration.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/DiscordIntegration.Integration.pdb
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/System.Reactive.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.pdb
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/bin/Debug/netcoreapp3.1/System.Reactive.xml
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.csproj.AssemblyReference.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.AssemblyInfoInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.AssemblyInfo.cs
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.csproj.CoreCompileInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.csproj.CopyComplete
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/obj/Debug/netcoreapp3.1/DiscordIntegration.Integration.pdb
