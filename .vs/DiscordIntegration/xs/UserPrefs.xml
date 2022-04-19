@@ -1,13 +1,25 @@
 ﻿<Properties StartupConfiguration="{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}|DiscordIntegration">
   <MonoDevelop.Ide.ItemProperties.DiscordIntegration.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordIntegration/Startup.cs">
+    <Files>
+      <File FileName="DiscordIntegration/Controllers/DiscordController.cs" Line="15" Column="10" />
+      <File FileName="DiscordIntegration/Startup.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Option id="ShowVersionControlOverlays" value="False" />
-          <Node name="DiscordIntegration" expanded="True" selected="True" />
+          <Node name="DiscordIntegration" expanded="True">
+            <Node name="DiscordIntegration.WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
