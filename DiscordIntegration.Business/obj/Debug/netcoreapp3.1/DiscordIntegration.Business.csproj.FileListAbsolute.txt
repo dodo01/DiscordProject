@@ -1,0 +1,10 @@
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/bin/Debug/netcoreapp3.1/DiscordIntegration.Business.deps.json
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/bin/Debug/netcoreapp3.1/DiscordIntegration.Business.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/bin/Debug/netcoreapp3.1/DiscordIntegration.Business.pdb
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.csproj.AssemblyReference.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.AssemblyInfoInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.AssemblyInfo.cs
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.csproj.CoreCompileInputs.cache
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.dll
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Business/obj/Debug/netcoreapp3.1/DiscordIntegration.Business.pdb
