@@ -7,8 +7,11 @@ namespace DiscordIntegration.Business
 {
     public class Startup
     {
+        public DiscordIntegration.Integration.Startup IntegrationStartup = new Integration.Startup();
         public void ConfigureServices(IServiceCollection service)
         {
+            IntegrationStartup.ConfigureServices(service);
+
             service.AddScoped<IDiscordService, DiscordService>();
         }
     }

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading.Tasks;
+using DiscordIntegration.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DiscordIntegration.WebAPI.Controllers
@@ -7,11 +9,16 @@ namespace DiscordIntegration.WebAPI.Controllers
     [ApiController]
     public class DiscordController : ControllerBase
     {
+        private readonly IDiscordService _discordService;
+        public DiscordController(IDiscordService discordService)
+        {
+            _discordService = discordService;
+        }
 
         [HttpGet("[action]")]
-        public string TestApi()
+        public async Task SendBotMessage()
         {
-            return "Hello world!";
+            await _discordService.SendBotMessage();
         }
     }
 }
