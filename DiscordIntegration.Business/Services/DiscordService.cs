@@ -14,7 +14,7 @@ namespace DiscordIntegration.Business.Services
             _botProxy = bot;
         }
 
-        public async Task SendBotMessage()
+        public async Task SendMessage()
         {
             await _botProxy.RunBot();
         }

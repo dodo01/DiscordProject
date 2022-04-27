@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{F6E6C6C9-4474-41A3-BBB1-60A7F88DB63E}|DiscordIntegration">
   <MonoDevelop.Ide.ItemProperties.DiscordIntegration.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordIntegration.Integration/Proxy/BotProxy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordIntegration/Startup.cs">
     <Files>
-      <File FileName="DiscordIntegration/Controllers/DiscordController.cs" Line="21" Column="1" />
-      <File FileName="DiscordIntegration.Integration/DiscordIntegration.Integration.csproj" Line="1" Column="1" />
-      <File FileName="DiscordIntegration.Integration/Proxy/BotProxy.cs" Line="51" Column="1" />
-      <File FileName="DiscordIntegration.Integration/Interfaces/IBotProxy.cs" Line="8" Column="14" />
-      <File FileName="DiscordIntegration.Business/Services/DiscordService.cs" Line="19" Column="1" />
-      <File FileName="DiscordIntegration.Business/Interfaces/IDiscordService.cs" Line="10" Column="2" />
-      <File FileName="DiscordIntegration/Program.cs" Line="16" Column="1" />
+      <File FileName="DiscordIntegration/Controllers/DiscordController.cs" Line="23" Column="6" />
+      <File FileName="DiscordIntegration.Integration/DiscordIntegration.Integration.csproj" />
+      <File FileName="DiscordIntegration.Integration/Proxy/BotProxy.cs" />
+      <File FileName="DiscordIntegration.Integration/Interfaces/IBotProxy.cs" />
+      <File FileName="DiscordIntegration.Business/Services/DiscordService.cs" />
+      <File FileName="DiscordIntegration.Business/Interfaces/IDiscordService.cs" />
+      <File FileName="DiscordIntegration/Program.cs" />
       <File FileName="DiscordIntegration.Integration/Startup.cs" Line="16" Column="52" />
-      <File FileName="DiscordIntegration.Integration/Modules/Commands.cs" Line="11" Column="1" />
+      <File FileName="DiscordIntegration/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="DiscordIntegration/Views/Home/Privacy.cshtml" Line="6" Column="25" />
+      <File FileName="DiscordIntegration/Views/Home/Secret.cshtml" Line="1" Column="34" />
+      <File FileName="DiscordIntegration/Controllers/SubscriberOfTheMonthController.cs" Line="16" Column="28" />
+      <File FileName="DiscordIntegration/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,18 +22,14 @@
           <Option id="ShowAllFiles" value="True" />
           <Option id="ShowVersionControlOverlays" value="False" />
           <Node name="DiscordIntegration" expanded="True">
-            <Node name="DiscordIntegration.Business" expanded="True">
-              <Node name="Services" expanded="True" />
-            </Node>
-            <Node name="DiscordIntegration.Infrastructure" expanded="True" />
-            <Node name="DiscordIntegration.Integration" expanded="True">
-              <Node name="Modules" expanded="True" />
-              <Node name="Proxy" expanded="True">
-                <Node name="BotProxy.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="DiscordIntegration.Integration" expanded="True" />
             <Node name="DiscordIntegration.WebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -46,14 +46,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Proxy/BotProxy.cs" relfile="DiscordIntegration.Integration/Proxy/BotProxy.cs" line="51" column="1" />
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Modules/Commands.cs" relfile="DiscordIntegration.Integration/Modules/Commands.cs" line="13" column="1" />
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Proxy/BotProxy.cs" relfile="DiscordIntegration.Integration/Proxy/BotProxy.cs" line="52" column="1" />
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Proxy/BotProxy.cs" relfile="DiscordIntegration.Integration/Proxy/BotProxy.cs" line="55" column="1" />
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Proxy/BotProxy.cs" relfile="DiscordIntegration.Integration/Proxy/BotProxy.cs" line="39" column="1" />
-      <Breakpoint file="/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Integration/Proxy/BotProxy.cs" relfile="DiscordIntegration.Integration/Proxy/BotProxy.cs" line="38" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
