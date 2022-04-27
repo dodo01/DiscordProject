@@ -7,18 +7,18 @@ namespace DiscordIntegration.WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class DiscordController : ControllerBase
+    public class BotController : ControllerBase
     {
         private readonly IDiscordService _discordService;
-        public DiscordController(IDiscordService discordService)
+        public BotController(IDiscordService discordService)
         {
             _discordService = discordService;
         }
 
         [HttpGet("[action]")]
-        public async Task SendBotMessage()
+        public async Task SendMessage()
         {
-            await _discordService.SendBotMessage();
+            await _discordService.SendMessage();
         }
     }
 }

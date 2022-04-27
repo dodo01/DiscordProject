@@ -5,6 +5,6 @@ namespace DiscordIntegration.Business.Interfaces
 {
     public interface IDiscordService
     {
-        Task SendBotMessage();
+        Task SendMessage();
     }
 }

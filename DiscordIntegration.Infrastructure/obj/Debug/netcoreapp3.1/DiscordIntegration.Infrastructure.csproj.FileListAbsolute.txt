@@ -3,6 +3,7 @@
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/bin/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.pdb
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/bin/Debug/netcoreapp3.1/System.Reactive.dll
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/bin/Debug/netcoreapp3.1/System.Reactive.xml
+/Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/obj/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.csproj.AssemblyReference.cache
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/obj/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/obj/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.AssemblyInfoInputs.cache
 /Users/cosminlebada/Documents/GitHub/DiscordProject/DiscordIntegration.Infrastructure/obj/Debug/netcoreapp3.1/DiscordIntegration.Infrastructure.AssemblyInfo.cs
